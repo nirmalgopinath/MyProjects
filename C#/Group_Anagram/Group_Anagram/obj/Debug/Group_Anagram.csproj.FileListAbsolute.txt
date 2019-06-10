@@ -1,0 +1,6 @@
+C:\Nirmal\MyPrograms\C#\Group_Anagram\Group_Anagram\bin\Debug\Group_Anagram.exe.config
+C:\Nirmal\MyPrograms\C#\Group_Anagram\Group_Anagram\obj\Debug\Group_Anagram.csprojResolveAssemblyReference.cache
+C:\Nirmal\MyPrograms\C#\Group_Anagram\Group_Anagram\bin\Debug\Group_Anagram.exe
+C:\Nirmal\MyPrograms\C#\Group_Anagram\Group_Anagram\bin\Debug\Group_Anagram.pdb
+C:\Nirmal\MyPrograms\C#\Group_Anagram\Group_Anagram\obj\Debug\Group_Anagram.exe
+C:\Nirmal\MyPrograms\C#\Group_Anagram\Group_Anagram\obj\Debug\Group_Anagram.pdb

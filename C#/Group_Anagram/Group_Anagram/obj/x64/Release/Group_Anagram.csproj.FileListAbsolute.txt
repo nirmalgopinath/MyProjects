@@ -1,0 +1,5 @@
+C:\Nirmal\MyPrograms\C#\Group_Anagram\Group_Anagram\bin\x64\Release\Group_Anagram.exe.config
+C:\Nirmal\MyPrograms\C#\Group_Anagram\Group_Anagram\bin\x64\Release\Group_Anagram.exe
+C:\Nirmal\MyPrograms\C#\Group_Anagram\Group_Anagram\bin\x64\Release\Group_Anagram.pdb
+C:\Nirmal\MyPrograms\C#\Group_Anagram\Group_Anagram\obj\x64\Release\Group_Anagram.exe
+C:\Nirmal\MyPrograms\C#\Group_Anagram\Group_Anagram\obj\x64\Release\Group_Anagram.pdb

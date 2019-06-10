@@ -1,0 +1,33 @@
+
+
+Perform the anagram grouping for Test Case : 1
+Input : Let etL the eht everyone happy eth
+Output :
+Group : Let etL
+Group : the eht eth
+Group : everyone
+Group : happy
+
+Perform the anagram grouping for Test Case : 2
+Input : Let etL the the eht everyone happy eth
+Output :
+Group : Let etL
+Group : the the eht eth
+Group : everyone
+Group : happy
+
+Perform the anagram grouping for Test Case : 3
+Input : A A B C
+Output :
+Group : A A
+Group : B
+Group : C
+
+Perform the anagram grouping for Test Case : 4
+Input : Let etL the the eht everyone happy etH
+Output :
+Group : Let etL
+Group : the the eht
+Group : everyone
+Group : happy
+Group : etH Press any key to continue . . .

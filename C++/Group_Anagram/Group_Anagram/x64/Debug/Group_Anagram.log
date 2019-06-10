@@ -1,0 +1,16 @@
+﻿Build started 6/9/2019 10:48:17 PM.
+     1>Project "C:\Nirmal\MyPrograms\C++\Group_Anagram\Group_Anagram\Group_Anagram.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\Group_Anagram.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Group_Anagram.cpp
+         Group_Anagram.cpp
+     1>Group_Anagram.cpp(83): warning C4267: 'argument' : conversion from 'size_t' to 'unsigned int', possible loss of data
+     1>Group_Anagram.cpp(168): warning C4267: 'argument' : conversion from 'size_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Nirmal\MyPrograms\C++\Group_Anagram\x64\Debug\Group_Anagram.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Nirmal\MyPrograms\C++\Group_Anagram\x64\Debug\Group_Anagram.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Nirmal\MyPrograms\C++\Group_Anagram\x64\Debug\Group_Anagram.lib" /MACHINE:X64 x64\Debug\Group_Anagram.obj
+         x64\Debug\stdafx.obj
+         Group_Anagram.vcxproj -> C:\Nirmal\MyPrograms\C++\Group_Anagram\x64\Debug\Group_Anagram.exe
+     1>Done Building Project "C:\Nirmal\MyPrograms\C++\Group_Anagram\Group_Anagram\Group_Anagram.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.23
